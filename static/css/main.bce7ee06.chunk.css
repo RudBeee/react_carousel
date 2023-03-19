@@ -1,0 +1,2 @@
+.App,.form{display:flex;flex-direction:column;align-items:center}.form{justify-content:space-around}.form__label{margin:10px}.form :last-child{align-self:flex-start}.button{border:none;font-size:30px}.Carousel{display:flex;flex-direction:column;align-items:center}.Carousel__list{display:flex;list-style:none;padding:0}.Carousel__buttons{display:flex;justify-content:space-between;max-width:260px;min-width:130px}.container{overflow:hidden}
+/*# sourceMappingURL=main.bce7ee06.chunk.css.map */
